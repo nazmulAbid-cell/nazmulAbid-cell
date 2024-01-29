@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hasan Abid</h1>
 <h3 align="center">Backend Developer(Machine learning Engineer) at Business Automation</h3>
 
-![download](https://github.com/nazmulAbid-cell/nazmulAbid-cell/assets/101667337/893016ca-bd42-4820-a814-68c1da57c7f7)
+![225275792-7d3a7d9f-17de-4583-90f8-7feea4e3b58e](https://github.com/nazmulAbid-cell/nazmulAbid-cell/assets/101667337/c62d05fa-f521-4d60-89b5-66f5eabcf510)
+
 
 - 🔭 I’m currently working on **Generative AI**
 
