@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazmul Hasan Abid</h1>
 <h3 align="center">Backend Developer(Machine learning Engineer) at Business Automation</h3>
-![225275792-7d3a7d9f-17de-4583-90f8-7feea4e3b58e](https://github.com/nazmulAbid-cell/nazmulAbid-cell/assets/101667337/32a7db8b-b835-4365-a53a-5bef41775e2a)
+
+![225275792-7d3a7d9f-17de-4583-90f8-7feea4e3b58e](https://github.com/nazmulAbid-cell/nazmulAbid-cell/assets/101667337/ba9c9d57-0c8e-4a2f-a402-d26e6aeeb8c0)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulabid-cell&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulabid-cell" /> </p>
